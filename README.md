@@ -70,15 +70,6 @@ I'm a software engineer with 2.5+ years of professional experience and a fresh M
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikanthreddy78&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthreddy78&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to SWE I/II roles — let's connect!</i><br/>
   <a href="mailto:gsrikanthreddy78@gmail.com">gsrikanthreddy78@gmail.com</a>
