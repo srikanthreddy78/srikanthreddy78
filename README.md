@@ -84,7 +84,7 @@ I'm a software engineer with 2.5+ years of professional experience and a fresh M
 | Project | Description | Stack |
 |---|---|---|
 | [**SkillSwap**](https://github.com/srikanthreddy78/SkillSwapApp) | Peer-to-peer skill exchange app with real-time video, chat, and payments | React Native, C# .NET 8, Firebase, Agora, Stripe |
-| [**C++ Database Engine**](https://github.com/srikanthreddy78/cpp-database-engine) | Storage engine built from scratch — LRU buffer pool, heap files, B+ tree index, relational query operators, and a histogram-based cardinality estimator. Perfect score in CS 660 @ BU. | C++20, GTest, CMake |
+| [**C++ Database Engine**](https://github.com/srikanthreddy78/cpp-database-engine) | Storage engine built from scratch, LRU buffer pool, heap files, B+ tree index, relational query operators, and a histogram-based cardinality estimator. Perfect score in CS 660 @ BU. | C++20, GTest, CMake |
 | [**Distributed Redis Cache**](https://github.com/srikanthreddy78/ecommerce-distributed-redis-cache) | 6-node Redis cluster with multi-tier caching, Prometheus/Grafana monitoring | Java, Spring Boot, Redis Cluster, Docker |
 | [**AskDocs**](https://github.com/srikanthreddy78/AskDocs) | RAG pipeline for semantic document search using vector embeddings | Python, Flask, OpenAI API, ChromaDB |
 | [**API Gateway**](https://github.com/srikanthreddy78/api-gateway) | Custom API gateway with routing, auth, and rate limiting | Java, Spring Boot |
