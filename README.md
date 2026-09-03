@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a software engineer with 2.5+ years of professional experience and a fresh MS in Computer Science from Boston University. I've built microservices handling **1M+ daily transactions** at Securonix, cut infrastructure costs by **$500K**, and reduced API latency by **40%**. I love working on systems problems, whether that's distributed caching, real-time applications, or RAG pipelines.
+I'm a software engineer with 2.5+ years of professional experience and a fresh MS in Computer Science from Boston University. I've built microservices handling **100M+ daily transactions** at Securonix, cut infrastructure costs by **$500K**, and reduced API latency by **40%**. I love working on systems problems, whether that's distributed caching, real-time applications, or RAG pipelines.
 
 - 🔭 &nbsp;Currently building: **SkillSwap** — a peer-to-peer skill exchange platform (React Native, C# .NET 8, Firebase, Agora)
 - 🌱 &nbsp;Exploring: LLM tooling, vector search, and distributed systems at scale
