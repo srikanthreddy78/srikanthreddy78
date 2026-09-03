@@ -20,7 +20,7 @@ I'm a software engineer with 2.5+ years of professional experience and a fresh M
 - 🔭 &nbsp;Currently building: **SkillSwap** — a peer-to-peer skill exchange platform (React Native, C# .NET 8, Firebase, Agora)
 - 🌱 &nbsp;Exploring: LLM tooling, vector search, and distributed systems at scale
 - 💬 &nbsp;Ask me about: microservices architecture, Redis clustering, or building mobile apps
-- 📍 &nbsp;Based in Boston, MA — open to relocating anywhere in the US
+- 📍 &nbsp;Based in San Francisco, CA — open to relocating anywhere in the US
 - 📄 &nbsp;[View my portfolio](https://srikanthgondireddy.com)
 
 ---
